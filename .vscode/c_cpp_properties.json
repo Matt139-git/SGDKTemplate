@@ -1,13 +1,14 @@
 {
     "configurations": [
         {
-            "name": "sgdk",
+            "name": "SGDK",
             "includePath": [
                 "${env:GDK}/inc",
                 "${env:GDK}/res",
                 "${workspaceFolder}/inc",
                 "${workspaceFolder}/res"
-            ]
+            ],
+            "compilerPath": ""
         }
     ],
     "version": 4
